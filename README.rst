@@ -13,7 +13,7 @@ Indigo was specially developed to be used with `Tutor <https://docs.overhang.io>
 
 Clone the theme repository::
 
-    git clone https://github.com/overhangio/indigo
+    git clone https://github.com/umairahmadh/indigo
 
 Render your theme::
     
